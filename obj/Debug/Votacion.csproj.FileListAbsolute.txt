@@ -1,0 +1,10 @@
+C:\Users\Lucas\source\repos\Votacion\bin\Debug\Votacion.exe.config
+C:\Users\Lucas\source\repos\Votacion\bin\Debug\Votacion.exe
+C:\Users\Lucas\source\repos\Votacion\bin\Debug\Votacion.pdb
+C:\Users\Lucas\source\repos\Votacion\obj\Debug\Votacion.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\Votacion\obj\Debug\Votacion.Form1.resources
+C:\Users\Lucas\source\repos\Votacion\obj\Debug\Votacion.Properties.Resources.resources
+C:\Users\Lucas\source\repos\Votacion\obj\Debug\Votacion.csproj.GenerateResource.cache
+C:\Users\Lucas\source\repos\Votacion\obj\Debug\Votacion.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Votacion\obj\Debug\Votacion.exe
+C:\Users\Lucas\source\repos\Votacion\obj\Debug\Votacion.pdb
